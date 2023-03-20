@@ -49,7 +49,7 @@ function Navbar() {
                     </li>
                     <li className='pt-4'>
                         <div className='d-inline pe-lg-3'>
-                            <img src="https://media.licdn.com/dms/image/D5635AQHqdDb-eS6FVw/profile-framedphoto-shrink_100_100/0/1662648174490?e=1678921200&v=beta&t=J8Qn-Zgfv8Y1nPru_X2wKliqBOv4IejhpDb9BNnkNrw" width={"23"} height={"23"} className="border border-3 border-dark rounded-circle" alt="" />
+                            <img src="https://media.licdn.com/dms/image/D5635AQHqdDb-eS6FVw/profile-framedphoto-shrink_100_100/0/1662648174490?e=1679878800&v=beta&t=GjpwSXxeE7lc-8wFOSkCNAzRKFPk-ZnziDGRh2g0DGE" width={"28"} height={"28"} className="border border-3 border-dark rounded-circle" alt="" />
                         </div>
                         <span className='fs-6 d-none d-lg-inline '>Profil</span>
                     </li>

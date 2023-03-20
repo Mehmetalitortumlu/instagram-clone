@@ -40,8 +40,8 @@ function Post() {
                 <ol key={i} className='list-group mb-5'>
                     <li className='list-group-item border-0 '>
                         <div className='d-flex justify-content-center align-items-center'>
-                            <div className='ms-lg-4 me-auto'>
-                                <img className='img-fluid rounded-circle border border-warning border-3' width={"45"} height={"45"} src="https://media.licdn.com/dms/image/D5635AQHqdDb-eS6FVw/profile-framedphoto-shrink_100_100/0/1662648174490?e=1679004000&v=beta&t=UXt-IFZibUjDnXyzS7YO2qgmC6tSbzuQgAwXs6aKtEk" alt="resim bulunamadı" />
+                            <div className='ms-lg-4 me-auto '>
+                                <img className='img-fluid rounded-circle border border-warning border-3' width={"45"} height={"45"} src="https://media.licdn.com/dms/image/D5635AQHqdDb-eS6FVw/profile-framedphoto-shrink_100_100/0/1662648174490?e=1679878800&v=beta&t=GjpwSXxeE7lc-8wFOSkCNAzRKFPk-ZnziDGRh2g0DGE" alt="resim bulunamadı" />
                                 <small className='fw-bold px-2'>m.alitrtml  </small>
                                 <small className='text-muted '>. 11s</small>
                             </div>
@@ -53,7 +53,7 @@ function Post() {
                         <div className="row justify-content-center"> {/* ikinci row start */}
                             <div className="col-12 col-md-10"> {/* ikinci col start*/}
                                 <div className='d-flex justify-content-center pt-3'>
-                                    <img className='rounded mb-1' width={"600px"} height={"500px"} src={`${post.src}`} alt="resim bulunamdı" />
+                                    <img className='rounded mb-1 img-fluid'  src={`${post.src}`} alt="resim bulunamdı" />
                                 </div>
 
                                 <div className='d-flex justify-content-center align-items-center'>
