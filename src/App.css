@@ -15,3 +15,7 @@ nav>ul>li{
     outline: none;
     border-bottom: 1px solid gray !important;
 }
+
+.f-size{
+    font-size: 13px !important;
+}

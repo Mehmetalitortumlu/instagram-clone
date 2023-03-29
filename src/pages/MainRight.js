@@ -5,58 +5,58 @@ function MainRight() {
     <div className='d-none d-lg-block col-md-3 col-xl-3 py-5'> {/*col-start*/}
       <ul class="list-group" style={{ maxWidth: "350px" }}>
         <li class="list-group-item d-flex justify-content-between border-0 mb-2 align-items-center">
-          <img src="../img/resim1.jpg" className='rounded-circle' width={"50"} height={"50"} alt="resim" />
+          <img src="../img/resim.jpg" className='rounded-circle' width={"50"} height={"50"} alt="resim" />
           <div class="ms-2 me-auto">
-            <div class="fw-bold">m.alitrtml</div>
-            Mehmet Ali
+            <div class="fw-bold f-size">m.alitrtml</div>
+            <span className='f-size'>Mehmet Ali</span>
           </div>
-          <span class="text-info fw-bold"> <small>Geçiş yap</small> </span>
+          <span class="text-info fw-bold f-size"> <small>Geçiş yap</small> </span>
         </li>
         <div className='ps-3 d-flex justify-content-between'>
-          <p className='text-muted'>Senin için öneriler</p>
-          <p> <small className='text-muted'>Tümünü gör</small> </p>
+          <p className='text-muted f-size'>Senin için öneriler</p>
+          <p> <small className='text-muted f-size'>Tümünü gör</small> </p>
         </div>
 
         <li class="list-group-item d-flex justify-content-between border-0 mb-2 align-items-center">
-          <img src="../img/resim1.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
+          <img src="../img/resim.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
           <div class="ms-2 me-auto">
-            <div class="fw-bold">m.alitrtml</div>
-            <small className='text-muted'>_abc + 4 diğer kişi takip ediyor</small>
+            <div class="fw-bold f-size">m.alitrtml</div>
+            <small className='text-muted f-size'>_abc + 4 diğer kişi takip ediyor</small>
           </div>
-          <span class="text-info fw-bold"> <small>Takip et</small> </span>
+          <span class="text-info fw-bold f-size"> <small>Takip et</small> </span>
         </li>
 
         <li class="list-group-item d-flex justify-content-between border-0 mb-2 align-items-center">
-          <img src="../img/resim1.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
+          <img src="../img/resim.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
           <div class="ms-2 me-auto">
-            <div class="fw-bold">m.alitrtml</div>
-            <small className='text-muted'>_abc + 4 diğer kişi takip ediyor</small>
+            <div class="fw-bold f-size">m.alitrtml</div>
+            <small className='text-muted f-size'>_abc + 4 diğer kişi takip ediyor</small>
           </div>
-          <span class="text-info fw-bold"> <small>Takip et</small> </span>
+          <span class="text-info fw-bold f-size"> <small>Takip et</small> </span>
         </li>
         <li class="list-group-item d-flex justify-content-between border-0 mb-2 align-items-center">
-          <img src="../img/resim1.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
+          <img src="../img/resim.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
           <div class="ms-2 me-auto">
-            <div class="fw-bold">m.alitrtml</div>
-            <small className='text-muted'>_abc + 4 diğer kişi takip ediyor</small>
+            <div class="fw-bold f-size">m.alitrtml</div>
+            <small className='text-muted f-size'>_abc + 4 diğer kişi takip ediyor</small>
           </div>
-          <span class="text-info fw-bold"> <small>Takip et</small> </span>
+          <span class="text-info fw-bold f-size"> <small>Takip et</small> </span>
         </li>
         <li class="list-group-item d-flex justify-content-between border-0 mb-2 align-items-center">
-          <img src="../img/resim1.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
+          <img src="../img/resim.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
           <div class="ms-2 me-auto">
-            <div class="fw-bold">m.alitrtml</div>
-            <small className='text-muted'>_abc + 4 diğer kişi takip ediyor</small>
+            <div class="fw-bold f-size">m.alitrtml</div>
+            <small className='text-muted f-size'>_abc + 4 diğer kişi takip ediyor</small>
           </div>
-          <span class="text-info fw-bold"> <small>Takip et</small> </span>
+          <span class="text-info fw-bold f-size"> <small>Takip et</small> </span>
         </li>
         <li class="list-group-item d-flex justify-content-between border-0 mb-2 align-items-center">
-          <img src="../img/resim1.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
+          <img src="../img/resim.jpg" className='rounded-circle' width={"40"} height={"40"} alt="resim" />
           <div class="ms-2 me-auto">
-            <div class="fw-bold">m.alitrtml</div>
-            <small className='text-muted'>_abc + 4 diğer kişi takip ediyor</small>
+            <div class="fw-bold f-size">m.alitrtml</div>
+            <small className='text-muted f-size'>_abc + 4 diğer kişi takip ediyor</small>
           </div>
-          <span class="text-info fw-bold"> <small>Takip et</small> </span>
+          <span class="text-info fw-bold f-size"> <small>Takip et</small> </span>
         </li>
       </ul>
 

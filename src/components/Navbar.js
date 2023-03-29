@@ -3,7 +3,7 @@ import Create from '../pages/Create';
 
 function Navbar() {
     return (
-        <div className="d-none d-md-flex justify-content-center justify-content-md-center col-md-1 col-lg-2 py-5 border-end position-relative " style={{ minHeight: "100vh" }}>
+        <div className="d-none d-md-flex justify-content-center justify-content-md-center col-md-1 col-lg-2 py-5 border-end position-relative position-fixed " style={{ minHeight: "100vh" }}>
             <nav >
                 <a href="/" className='text-decoration-none d-none d-md-inline fs-4 text-dark px-3'>
                     <span className='fs-3 d-none d-lg-inline'> <em>Instagram</em> </span>
@@ -49,14 +49,14 @@ function Navbar() {
                     </li>
                     <li className='pt-4'>
                         <div className='d-inline pe-lg-3'>
-                            <img src="https://media.licdn.com/dms/image/D5635AQHqdDb-eS6FVw/profile-framedphoto-shrink_100_100/0/1662648174490?e=1679878800&v=beta&t=GjpwSXxeE7lc-8wFOSkCNAzRKFPk-ZnziDGRh2g0DGE" width={"28"} height={"28"} className="border border-3 border-dark rounded-circle" alt="" />
+                            <img src="../img/resim.jpg" width={"28"} height={"28"} className="border border-3 border-dark rounded-circle" alt="" />
                         </div>
                         <span className='fs-6 d-none d-lg-inline '>Profil</span>
                     </li>
                 </ul>
 
                 {/* dropdown button*/}
-                <div className="btn-group dropup  mt-5 py-5">
+                <div className="btn-group dropup  mt-5 py-5 ">
                     <button type="button" id="myDropdown" className="btn btn-light dropdown-toggle d-none d-lg-inline" data-bs-toggle="dropdown" aria-expanded="false">
                         <i className="bi bi-three-dots-vertical"></i>
                         <span className='px-2 fs-6 '>

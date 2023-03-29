@@ -41,7 +41,7 @@ function Post() {
                     <li className='list-group-item border-0 '>
                         <div className='d-flex justify-content-center align-items-center'>
                             <div className='ms-lg-4 me-auto '>
-                                <img className='img-fluid rounded-circle border border-warning border-3' width={"45"} height={"45"} src="https://media.licdn.com/dms/image/D5635AQHqdDb-eS6FVw/profile-framedphoto-shrink_100_100/0/1662648174490?e=1679878800&v=beta&t=GjpwSXxeE7lc-8wFOSkCNAzRKFPk-ZnziDGRh2g0DGE" alt="resim bulunamadı" />
+                                <img className='img-fluid rounded-circle border border-warning border-3' width={"45"} height={"45"} src="../img/resim.jpg" alt="resim bulunamadı" />
                                 <small className='fw-bold px-2'>m.alitrtml  </small>
                                 <small className='text-muted '>. 11s</small>
                             </div>
